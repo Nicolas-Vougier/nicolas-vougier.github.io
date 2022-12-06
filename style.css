@@ -1,0 +1,7 @@
+h1 {
+    text-align: center;
+}
+nav, li {
+    text-align: center;
+    list-style-type: none;
+}
